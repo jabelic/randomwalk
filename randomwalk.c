@@ -1,4 +1,4 @@
-//課題3 2610180082 水野響
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <glsc.h>
